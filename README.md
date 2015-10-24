@@ -15,5 +15,5 @@ If you would like to run this locally follow the instructions below:
 
 These two commands should compile all of the Typescript code and open a browser window with the test app running.
 
-
+The reference video that I used can be found here: https://www.youtube.com/watch?v=z1NB-HG0ZH4
 
