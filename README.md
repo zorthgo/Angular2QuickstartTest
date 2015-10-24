@@ -1,4 +1,4 @@
-# Angular2QuickstartTest
+# Angular2 Component Router Test
 Doing some testing with the new Component Router using Angular 2's Quickstart guide.
 
 If you would like to run this locally follow the instructions below:
